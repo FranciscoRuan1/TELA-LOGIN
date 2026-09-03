@@ -35,7 +35,7 @@ form {
     border-radius: 0px 15px 15px 0px;
 }
 
-span#span2 {
+.span1 {
     background-color: #5F2C82;
     border-radius: 10px;
     width: 90%;
@@ -45,15 +45,6 @@ span#span2 {
     margin: 2px 0px;
 }
 
-span#span1 {
-    background-color: #5F2C82;
-    border-radius: 10px;
-    width: 90%;
-    height: 12%;
-    display: flex;
-    justify-content: flex-end;
-    margin: 2px 0px;
-}
 
 a {
     color: #49A09D;
@@ -93,4 +84,13 @@ h1 {
 .material-icons {
     color: white;
     margin: auto;
+}
+
+p {
+    padding: 2px;
+}
+
+#entrar:hover {
+    background-color: white;
+    color: #49A09D;
 }
